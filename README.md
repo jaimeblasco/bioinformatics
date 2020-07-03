@@ -1,6 +1,6 @@
 # bioinformatics
 
-Bioinformatic Methods I
+Bioinformatic Methods I - https://www.coursera.org/learn/bioinformatics-methods-1/
 
 ## BLAST
 https://blast.ncbi.nlm.nih.gov/Blast.cgi
