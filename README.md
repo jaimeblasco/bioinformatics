@@ -50,3 +50,22 @@ METAGENOMICS
 
 http://metagenomics.anl.gov/
 
+Bioinformatic Methods II - https://www.coursera.org/learn/bioinformatics-methods-2/
+
+##  Protein Domain, Motif and Profile Analysis 
+
+CDD – Conserved Domain Database 
+http://www.ncbi.nlm.nih.gov/
+
+SMART
+http://smart.embl-heidelberg.de/
+
+Pfam
+http://pfam.xfam.org/
+
+InterproScan
+http://www.ebi.ac.uk/interpro/search/sequence-search
+
+## PPI
+List PPI databases:
+http://ppi.fli-leibniz.de/jcb_ppi_databases.html
