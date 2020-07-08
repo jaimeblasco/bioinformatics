@@ -69,3 +69,13 @@ http://www.ebi.ac.uk/interpro/search/sequence-search
 ## PPI
 List PPI databases:
 http://ppi.fli-leibniz.de/jcb_ppi_databases.html
+
+DIP 
+http://dip.doe-mbi.ucla.edu/dip/Main.cgi
+
+BIOGRID
+http://www.thebiogrid.org/index.php
+
+Cytoscape
+http://www.cytoscape.org/download.html
+
