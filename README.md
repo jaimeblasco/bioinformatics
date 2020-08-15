@@ -216,6 +216,8 @@ Human eFP Browser
 http://bar.utoronto.ca/efp_human/cgi-bin/efpWeb.cgi
 
 
+Plant Bioinformatics - https://www.coursera.org/learn/bioinformatics-methods-1/
+
 
 
 
