@@ -216,9 +216,38 @@ Human eFP Browser
 http://bar.utoronto.ca/efp_human/cgi-bin/efpWeb.cgi
 
 
-Plant Bioinformatics - https://www.coursera.org/learn/bioinformatics-methods-1/
+# Plant Bioinformatics - https://www.coursera.org/learn/bioinformatics-methods-1/
 
 
-
+Araport Arabidopsis
+thaliana only
+Araport11 release purveyor; general
+information database served through web
+page.
+TAIR Arabidopsis
+thaliana only
+TAIR10 release purveyor; general
+information database served through web
+page. Gene Ontology curator.
+Gramene Many plants Presents information from many databases
+through a simpler web application-like
+design.
+Ensembl Plants Many plants Presents information from many databases
+through web pages with embedded web
+applications. Easy to access search tools.
+SUBA4 Arabidopsis
+thaliana only
+Presents consensus subcellular localization
+data from a variety of sources.
+Cell eFP Browser Arabidopsis
+thaliana only
+Visual representation of subcellular
+localization data through simple tool.
+PLAZA Many plants Presents information from many databases.
+Easy to access tools. Custom tree creation.
+1001 Genomes Arabidopsis
+thaliana only
+Database of mutations across >1001
+Arabidopsis accessions (strains).
 
 
